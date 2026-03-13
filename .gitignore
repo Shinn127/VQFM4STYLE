@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.so
+
+checkpoints/
+cache/
+rollout_vis/
+database_100sty_375_memmap/
+*.h5
+*.hdf5
