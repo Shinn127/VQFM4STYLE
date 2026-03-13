@@ -1,12 +1,11 @@
 # VQFM4STYLE
 
-<p align="center">
-  <video src="media/anim.mp4" poster="media/Figure.png" controls muted playsinline preload="metadata" width="100%"></video>
-</p>
+[![VQFM4STYLE demo video](media/Figure.png)](media/anim.mp4)
 
-<p align="center">
-  <a href="media/anim.mp4">Open demo video</a>
-</p>
+Demo video: [`media/anim.mp4`](media/anim.mp4)
+
+<!-- BVHView-style inline video on GitHub: paste the uploaded asset URL below on its own line. -->
+<!-- https://github.com/user-attachments/assets/... -->
 
 `VQFM4STYLE` is a research codebase for style-aware human motion generation and real-time character control.
 
