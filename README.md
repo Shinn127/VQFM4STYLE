@@ -1,7 +1,11 @@
 # VQFM4STYLE
 
 <p align="center">
-  <img src="media/anim.gif" alt="VQFM4STYLE animation demo" width="100%" />
+  <video src="media/anim.mp4" poster="media/Figure.png" controls muted playsinline preload="metadata" width="100%"></video>
+</p>
+
+<p align="center">
+  <a href="media/anim.mp4">Open demo video</a>
 </p>
 
 `VQFM4STYLE` is a research codebase for style-aware human motion generation and real-time character control.
