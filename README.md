@@ -1,13 +1,6 @@
 # VQFM4STYLE
 
-[![VQFM4STYLE demo video](media/Figure.png)](media/anim.mp4)
-
-Demo video: [`media/anim.mp4`](media/anim.mp4)
-
-<!-- BVHView-style inline video on GitHub: paste the uploaded asset URL below on its own line. -->
-<!-- https://github.com/user-attachments/assets/... -->
-https://github.com/user-attachments/assets/00386e37-f093-4b3e-9380-87ee2b909351
-
+https://github.com/user-attachments/assets/1731b8ce-0559-46ba-a139-682e097a670d
 
 `VQFM4STYLE` is a research codebase for style-aware human motion generation and real-time character control.
 
